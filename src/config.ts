@@ -11,10 +11,10 @@ export const site: SiteConfig = {
   // ----------------------------------------------------------
   //  EDIT: basics. Start here (Level 1, Part B).
   // ----------------------------------------------------------
-  name: "Plovify",
+  name: "Plov and GlucoAI",
   tagline: "Plov as a Service",
   description:
-    "Plovify brings hot, fresh plov to every table, from a family dinner to a wedding for 800 guests. Replace this text with one or two sentences about the problem your startup solves and who it is for.",
+    "Plov GlucoAI is AI tool to make your life easy.",
   accentColor: "#e8630a", // your brand colour as a hex code, e.g. "#2563eb" (blue)
   contactEmail: "hello@plovify.example",
 
